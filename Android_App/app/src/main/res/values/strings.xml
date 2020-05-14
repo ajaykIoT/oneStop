@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">oneStop</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+     <string name="title_section4">Section 4</string>
+      <string name="title_section5">Section 5</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hello_world">Welcome to OneStop</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="title_activity_forgot_password">Forgot Password</string>
+    <string name="title_activity_post_sell">Post Item to Sell</string>
+    <string name="title_activity_post_rent">Post Item to Rent</string>
+
+</resources>
